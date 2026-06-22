@@ -54,7 +54,6 @@
   a{color:inherit;text-decoration:none}
   .wrap{max-width:var(--maxw);margin:0 auto;padding:0 28px}
   .eyebrow{font-family:var(--display);font-size:12px;font-weight:600;letter-spacing:.22em;text-transform:uppercase;color:var(--flare)}
-  .eyebrow.lg{font-size:15px;letter-spacing:.2em}
   h1,h2,h3{font-family:var(--display);font-weight:600;letter-spacing:-.02em;line-height:1.05}
 
   /* ---- NAV ---- */
@@ -202,6 +201,138 @@
   "sameAs": [],
   "contactPoint": {
     "@type": "ContactPoint",
+    "contactType": "Business Inquiries",
+    "email": "contact@methanemitigation.com"
+  },
+  "keywords": "methane mitigation, carbon credits, oil well plugging, abandoned wells, climate assets, verified carbon credits, methane emissions, environmental remediation",
+  "industry": "Environmental Services",
+  "slogan": "Idle wells into verified climate assets"
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "serviceType": "Environmental Remediation",
+  "provider": {
+    "@type": "Organization",
+    "name": "Methane Mitigation Partners"
+  },
+  "description": "Permanently plug end-of-life oil and gas wells and convert eliminated emissions into independently verified, insured carbon credits.",
+  "areaServed": {
+    "@type": "Country",
+    "name": "United States"
+  },
+  "offers": {
+    "@type": "Offer",
+    "description": "Verified carbon credits from permanently plugged oil and gas wells"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Methane Mitigation Partners",
+  "url": "https://methanemitigationpartners.com/",
+  "description": "Idle wells into verified climate assets",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Methane Mitigation Partners"
+  }
+}
+</script>
+
+<!-- Structured Data (JSON-LD) for AI & Search Engines -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Methane Mitigation Partners",
+  "description": "Methane Mitigation Partners permanently plugs end-of-life oil and gas wells and converts the eliminated emissions into independently verified, insured carbon credits.",
+  "url": "https://methanemitigationpartners.com/",
+  "logo": "https://methanemitigationpartners.com/og-image.jpg",
+  "foundingDate": "2026",
+  "founder": {
+    "@type": "Person",
+    "name": "Jeff Levine"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+  },
+  "sameAs": [],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "Business Inquiries",
+    "email": "contact@methanemitigation.com"
+  },
+  "keywords": "methane mitigation, carbon credits, oil well plugging, abandoned wells, climate assets, verified carbon credits, methane emissions, environmental remediation",
+  "industry": "Environmental Services",
+  "slogan": "Idle wells into verified climate assets"
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "serviceType": "Environmental Remediation",
+  "provider": {
+    "@type": "Organization",
+    "name": "Methane Mitigation Partners"
+  },
+  "description": "Permanently plug end-of-life oil and gas wells and convert eliminated emissions into independently verified, insured carbon credits.",
+  "areaServed": {
+    "@type": "Country",
+    "name": "United States"
+  },
+  "offers": {
+    "@type": "Offer",
+    "description": "Verified carbon credits from permanently plugged oil and gas wells"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Methane Mitigation Partners",
+  "url": "https://methanemitigationpartners.com/",
+  "description": "Idle wells into verified climate assets",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Methane Mitigation Partners"
+  }
+}
+</script>
+
+<!-- Structured Data (JSON-LD) for AI & Search Engines -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Methane Mitigation Partners",
+  "description": "Methane Mitigation Partners permanently plugs end-of-life oil and gas wells and converts the eliminated emissions into independently verified, insured carbon credits.",
+  "url": "https://methanemitigationpartners.com/",
+  "logo": "https://methanemitigationpartners.com/og-image.jpg",
+  "foundingDate": "2026",
+  "founder": {
+    "@type": "Person",
+    "name": "Jeff Levine"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+  },
+  "sameAs": [],
+  "contactPoint": {
+    "@type": "ContactPoint",
     "contactType": "Business Inquiries"
   },
   "keywords": "methane mitigation, carbon credits, oil well plugging, abandoned wells, climate assets, verified carbon credits, methane emissions, environmental remediation",
@@ -245,6 +376,71 @@
 }
 </script>
 
+
+<!-- Structured Data (JSON-LD) for AI & Search Engines -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Methane Mitigation Partners",
+  "description": "Methane Mitigation Partners permanently plugs end-of-life oil and gas wells and converts the eliminated emissions into independently verified, insured carbon credits.",
+  "url": "https://methanemitigationpartners.com/",
+  "logo": "https://methanemitigationpartners.com/og-image.jpg",
+  "foundingDate": "2026",
+  "founder": {
+    "@type": "Person",
+    "name": "Jeff Levine"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+  },
+  "sameAs": [],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "Business Inquiries"
+  },
+  "keywords": "methane mitigation, carbon credits, oil well plugging, abandoned wells, climate assets, verified carbon credits, methane emissions, environmental remediation",
+  "industry": "Environmental Services",
+  "slogan": "Idle wells into verified climate assets"
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "serviceType": "Environmental Remediation",
+  "provider": {
+    "@type": "Organization",
+    "name": "Methane Mitigation Partners"
+  },
+  "description": "Permanently plug end-of-life oil and gas wells and convert eliminated emissions into independently verified, insured carbon credits.",
+  "areaServed": {
+    "@type": "Country",
+    "name": "United States"
+  },
+  "offers": {
+    "@type": "Offer",
+    "description": "Verified carbon credits from permanently plugged oil and gas wells"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Methane Mitigation Partners",
+  "url": "https://methanemitigationpartners.com/",
+  "description": "Idle wells into verified climate assets",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Methane Mitigation Partners"
+  }
+}
+</script>
 </head>
 <body>
 
@@ -270,7 +466,7 @@
   <div class="wrap">
     <div class="hero-grid">
       <div>
-        <span class="eyebrow lg">Carbon project development</span>
+        <span class="eyebrow">Carbon project development</span>
         <h1 class="hero">We turn idle wells into <em>permanently retired</em> climate assets.</h1>
         <p class="hero-sub">Methane Mitigation Partners plugs end-of-life and marginal oil &amp; gas wells, then converts the eliminated emissions into independently verified, insured carbon credits.</p>
         <div class="hero-actions">
@@ -288,7 +484,7 @@
 
 <div class="strip">
   <div class="wrap">
-    <span>Measured to <b>ISO 14064 &amp; 14065</b></span>
+    <span>Measured to <b>ISO 14064</b></span>
     <span>Digital MRV &middot; <b>OGMP 2.0 Level 5</b></span>
     <span>Independently <b>verified &amp; validated</b></span>
   </div>
@@ -307,7 +503,7 @@
 <section class="proc" id="how">
   <div class="wrap">
     <div class="sec-head reveal">
-      <span class="eyebrow lg">How it works</span>
+      <span class="eyebrow">How it works</span>
       <h2>From liability to verified asset.</h2>
       <p>Every step is measured, documented, and audit-ready — so the credits we generate hold up to the scrutiny serious buyers demand.</p>
     </div>
@@ -329,7 +525,7 @@
     </div>
     <div class="pillars reveal">
       <div class="pillar"><div class="k">Transparency</div><h3>Measured, not modeled</h3><p>Emissions are quantified with digital monitoring and documented under recognized methodologies — you can see how every credit was derived.</p></div>
-      <div class="pillar"><div class="k">Permanence</div><h3>Sealed for good</h3><p>A properly plugged well doesn't leak again. We go above and beyond traditional plugging and data collection &mdash; rigorous enough that our work can be insured &mdash; and post-plugging verification confirms the methane stays in the ground permanently.</p></div>
+      <div class="pillar"><div class="k">Permanence</div><h3>Sealed for good</h3><p>A plugged well doesn't leak again. Post-plugging verification confirms the methane stays in the ground permanently.</p></div>
       <div class="pillar"><div class="k">Additionality</div><h3>Wouldn't happen otherwise</h3><p>These wells sit outside committed public funding. Without the carbon market, they stay open and keep emitting.</p></div>
     </div>
   </div>
@@ -361,7 +557,7 @@
     </div>
     <div class="advisors reveal">
       <h3>Advisors &amp; partners</h3>
-      <p>Brennan works alongside a bench of advisors and partners spanning oil &amp; gas operations, carbon measurement and verification, insurance and project finance &mdash; the disciplines it takes to move a well from baseline to issued credit. We bring the right expertise to each project rather than forcing every project through the same box.</p>
+      <p>Brennan works alongside a bench of advisors and partners spanning oil &amp; gas operations, carbon measurement and verification, and project finance &mdash; the disciplines it takes to move a well from baseline to issued credit. We bring the right expertise to each project rather than forcing every project through the same box.</p>
     </div>
   </div>
 </section>
@@ -400,7 +596,7 @@
 <div class="band" id="contact">
   <div class="wrap">
     <h2>Let's seal the next well together.</h2>
-    <a class="btn" href="mailto:hello@methanemitigationpartners.com">hello@methanemitigationpartners.com</a>
+    <a class="btn" href="mailto:hello@methanemitigation.com">hello@methanemitigation.com</a>
   </div>
 </div>
 
